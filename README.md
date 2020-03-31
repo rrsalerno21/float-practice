@@ -1,12 +1,12 @@
-# float-practice
+# Float Practice Repo
 
 
 
-## Practicing CSS with the Float property
+## Practicing CSS with the Float Property
 
 This repo was created to help myself and my classmates understand and play with CSS properties related to float and positioning.  I personally needed practice understanding how to use the clear attribute appropriately and see its affects on the elements that follow a float.
 
-Feel free to contribute as you wish.  Licensed under the MIT License
+Feel free to contribute as you wish.  Licensed under the MIT License.
 
 ## License
 
